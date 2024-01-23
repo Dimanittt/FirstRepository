@@ -1,4 +1,4 @@
 Hello world!
-12345
+Another line from user1
 Good bye!
 Line from user1
