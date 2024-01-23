@@ -1,3 +1,5 @@
 Hello world!
 123
-Good evening! (master)
+Another line from user1
+Good bye!
+Line from user1
