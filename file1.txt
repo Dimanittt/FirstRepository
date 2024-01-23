@@ -1,4 +1,8 @@
 Hello world!
+<<<<<<< HEAD
 Another line from user1
+=======
+Line from user2
+>>>>>>> 3a9e2d7f4cde9d05cbbf633387959369a9a2e61a
 Good bye!
 Line from user1
